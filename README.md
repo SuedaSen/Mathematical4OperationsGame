@@ -1,4 +1,4 @@
-# Mathematical Operations Game  🎮➕➖✖️➗🎮
+# Mathematical Operations Game  🎮➕➖✖️➗
 
 ##
 
