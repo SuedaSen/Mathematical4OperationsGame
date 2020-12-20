@@ -4,6 +4,8 @@
 
 ➡️   **It's a 4 operations game** <br/> 
 ➡️   **I writed by using Java and Java Swing** <br/> 
+➡️   **You can play, just dowload "MathematicGame.jar" file** <br/> 
+![Alt Text](https://i.hizliresim.com/TgvSVx.png)
 
 <br/>
 
