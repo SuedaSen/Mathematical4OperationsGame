@@ -1,4 +1,4 @@
-# LoginGUI 🎮➕➖➗🎮
+# Mathematical Operations Game  🎮➕➖➗🎮
 
 ##
 
