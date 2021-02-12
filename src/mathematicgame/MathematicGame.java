@@ -447,3 +447,5 @@ public class MathematicGame extends javax.swing.JFrame {
     private javax.swing.JTextField textfield_result;
     // End of variables declaration//GEN-END:variables
 }
+
+
