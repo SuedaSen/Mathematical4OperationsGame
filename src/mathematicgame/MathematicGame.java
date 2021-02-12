@@ -7,7 +7,7 @@ package mathematicgame;
 public class MathematicGame extends javax.swing.JFrame {
     public MathematicGame() {
         initComponents(); //Proje başlar başlamaz çalışacak olan ilk işlemler
-        panel_gamearea.setVisible(true);//İlk açıldığı zaman ekranda görünmesin
+        panel_gamearea.setVisible(false);//İlk açıldığı zaman ekranda görünmesin
     }
 
     @SuppressWarnings("unchecked")
